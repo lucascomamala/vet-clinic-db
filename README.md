@@ -77,8 +77,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Lucas Comamala**
 
 - GitHub: [@lucascomamala](https://github.com/lucascomamala/)
