@@ -10,3 +10,6 @@ CREATE TABLE animals (
     weight_kg DECIMAL,
     PRIMARY KEY(id)
 );
+
+/* Day 2 */
+ALTER TABLE animals ADD species VARCHAR(50);
